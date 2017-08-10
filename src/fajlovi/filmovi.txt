@@ -1,0 +1,5 @@
+Titanik|Titanic|1997|8|James Cameron|Neki opis|195
+Dan nezavisnosti|Independence Day|1996|2|Roland Emmerich|Vanzemaljci dolaze i njihov cilj je da uniste zemlju! Borba vrhunskom tehologijom je jedini nacin da covecanstvo opstane!|145
+Warcraft: Pocetak|Warcraft: The Beginning|2016|9|Duncan Jones|Pokriva priču o prvoj invaziji orka i njihovom prolasku kroz Mračnu kapiju iz svog umirućeg sveta Dreanora u svet Azerota i njihov sudar sa ljudima|123
+Dedpul|Deadpool|2016|1|Tim Miller|Vejd Vilson je bivši agent Specijalnih snaga, koji je postao plaćenik. Ali, nakon što je podvrgnut tajnom eksperimentu, dobio je mogućnost da - leči! Tako je postao superheroj.|108
+Zootopia|Zootopia|2016|7|Byron Howard|U gradu antropomorfne životinje, početnik zec policajac i ciničan prevarant lisica moraju raditi zajedno kako bi otkrili zaveru.|108

@@ -1,0 +1,10 @@
+1|Komedija
+2|Akcija
+3|Drama
+4|Triler
+5|Mjuzikl
+6|Hororor
+7|Crtani Film
+8|Romantika
+9|Sci-Fi
+10|Drugo

@@ -1,0 +1,5 @@
+marko|jokic|1234567891234|moja adresa|M|22000|marko|jokic|1
+admin|adminovic|1337133713371|neka random adresa|M|250000|admin|admin|0
+pera|peric|0944567885312|daleka adresa|M|20000|perap|1234|1
+jovana|jovic|0985678473213|blizu adresa|Z|25000|jjovic|pas123|1
+Test|Test|1234567890123|Test|M|12000|test|test|1

@@ -1,0 +1,8 @@
+Pera|Detlic|9876543213329|Mrs. Meany's front yard|M|100|0
+Paja|Patak|1398546975211|Disneyland|M|101|0
+Miki|Maus|1987846323421|Mouseton 1|M|102|0
+Pata|Patak|0203989123453|Disneyland|Z|103|0
+Vini|Pu|0301313131348|Ashdown Forest|M|104|0
+Robin|Hood|1236548879912|Sherwood Forest|M|105|0
+Mini|Maus|1234567890123|Mouseton 1|Z|106|0
+Test|Test|0123456789123|Test|Z|107|1
